@@ -2,9 +2,9 @@
 Simulation of Urban Mobility Initial Playground Setup
 
 ```
-This setup instructions are meant for users who are utilizing SUMO in Instant Veins
-The scripts are meant to save time for users.
-It will help you render OpenStreetMap to SUMO.
+This setup instructions are meant for users who are utilizing SUMO in Instant Veins.
+The scripts are meant to save time for users who are beginning to play around with SUMO in the Veins platform.
+This shell script will help you render OpenStreetMap to SUMO.
 ```
 ## Download and setup
 
