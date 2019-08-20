@@ -11,7 +11,7 @@ This shell script will help you render OpenStreetMap to SUMO.
 * git clone https://github.com/jk-pop/SUMO
 
 Change directory to SUMO
-* cd /sumo
+* cd /SUMO
 
 Determine what version of Veins you are running (4.7 or 5.0)
 
