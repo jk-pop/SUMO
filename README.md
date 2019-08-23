@@ -26,6 +26,3 @@ If you are running Debian 4.9.110, run:
 
 If you are running Debian 4.9.138, run:
 * ./open-maps-5.0.sh
-
-## What You Will See
-![](https://github.com/jk-pop/SUMO/blob/master/SUMO_Before_Sim.PNG)
